@@ -1,0 +1,1 @@
+create table user1 (name varchar2(20), email varchar2(30), mobile number(13), password varchar2(30), username varchar2(15), role varchar2(15));
